@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Eduardo Silva 🖐️
 
-![Edu Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=edusilva095&show_icons=true&theme=radical)
+<p>Bacharel em Ciência da Computação. Experiência substancial em desenvolvimento React.js e Node.js, juntamente com a criação de APIs REST para fornecer soluções eficazes. Proficiência no uso de bancos de dados como MongoDB e MySQL, com habilidades avançadas em JavaScript para implementar lógica robusta.</p>
+<p>Além disso, sou familiarizado com as ferramentas Git e GitHub para controle de versão e colaboração eficaz. Com conhecimento em Material-UI, estou comprometido em criar interfaces intuitivas.</p>
+<p>Estou empolgado com a perspectiva de continuar minha jornada profissional, construindo projetos inovadores e aprendendo constantemente para aprimorar minhas habilidades.</p>
 
 ### Tecnologias 
 <div style="display: inline_block">
