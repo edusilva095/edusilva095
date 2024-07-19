@@ -1,8 +1,21 @@
 ### Olá! Eu sou o Eduardo Silva 🖐️
 
-<p>Bacharel em Ciência da Computação. Experiência substancial em desenvolvimento React.js e Node.js, juntamente com a criação de APIs REST para fornecer soluções eficazes. Proficiência no uso de bancos de dados como MongoDB e MySQL, com habilidades avançadas em JavaScript para implementar lógica robusta.</p>
-<p>Além disso, sou familiarizado com as ferramentas Git e GitHub para controle de versão e colaboração eficaz. Com conhecimento em Material-UI, estou comprometido em criar interfaces intuitivas.</p>
-<p>Estou empolgado com a perspectiva de continuar minha jornada profissional, construindo projetos inovadores e aprendendo constantemente para aprimorar minhas habilidades.</p>
+<p>Bacharel em Ciência da Computação com ampla experiência em desenvolvimento de software, especializado em React.js e Node.js. Experiente na criação de APIs REST robustas e eficientes, proporcionando soluções eficazes e escaláveis.</p>
+<h4>Habilidades</h4>
+<ul>
+  <li>Implementação de back-end com Node.js, assegurando o desempenho e a segurança das aplicações.</li>
+  <li>Desenvolvimento front-end utilizando React para criar interfaces de usuário dinâmicas e responsivas.</li>
+  <li>Proficiência no uso de bancos de dados como MongoDB e MySQL para gerenciamento de dados eficiente.</li>
+</ul>
+
+<h4>Ferramentas</h4>
+<ul>
+  <li>Controle de versão e colaboração utilizando Git e GitHub.</li>
+  <li>Conhecimento em Material-UI para desenvolver interfaces de usuário intuitivas e modernas.</li>
+</ul>
+
+<h4>Objetivos</h4>
+<p>Estou em busca de novos desafios e oportunidades para aprender e crescer. Comprometido em contribuir para projetos inovadores e em constante aprimoramento das minhas habilidades técnicas.</p>
 
 ### Tecnologias 
 <div style="display: inline_block">
