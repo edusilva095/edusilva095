@@ -6,13 +6,10 @@
   <li>Implementação de back-end com Node.js, assegurando o desempenho e a segurança das aplicações.</li>
   <li>Desenvolvimento front-end utilizando React para criar interfaces de usuário dinâmicas e responsivas.</li>
   <li>Proficiência no uso de bancos de dados como MongoDB e MySQL para gerenciamento de dados eficiente.</li>
-  <li>Conhecimento em Docker e Docker Compose para criação, gerenciamento e orquestração de containers, facilitando a configuração de ambientes e a integração contínua.</li>
+  <li>Conhecimento em Docker para criação, gerenciamento e orquestração de containers, facilitando a configuração de ambientes e a integração contínua.</li>
   <li>Controle de versão e colaboração utilizando Git e GitHub.</li>
   <li>Conhecimento em Material-UI para desenvolver interfaces de usuário intuitivas e modernas.</li>
 </ul>
-
-<h4>Objetivos</h4>
-<p>Estou em busca de novos desafios e oportunidades para aprender e crescer. Comprometido em contribuir para projetos inovadores e em constante aprimoramento das minhas habilidades técnicas.</p>
 
 ### Stack
 <div style="display: inline_block">
